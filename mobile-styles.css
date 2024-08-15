@@ -29,6 +29,7 @@ transform: scale(1.1);
 
 .top{
 overflow:hidden;
+background-color: rgb(82, 157, 255);
 height:75px;
 width:100%;
 }
@@ -77,6 +78,7 @@ line-height:35px;
 .smooth{
 font-size:18px;
 font-weight:bold;
+color: white;
 }
 
 .photo1.img{
@@ -346,7 +348,7 @@ font-size:26px;
 .bottom{
 overflow:hidden;
 margin-top:60px;
-background-color:black;
+background-color:rgb(82, 157, 255);
 height:30px;
 width:100%;
 }
@@ -362,7 +364,7 @@ border: 1px solid black;
 }
 
 .last{
-background-color:black;
+background-color:rgb(82, 157, 255);
 height:51px;
 width:100%;
 }
@@ -370,7 +372,7 @@ width:100%;
 .lastm{
 margin-left:auto;
 margin-right:auto;
-background-color:black;
+background-color:rgb(82, 157, 255);
 height:50px;
 width:50%;
 border-top: 1px solid white;
