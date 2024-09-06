@@ -29,7 +29,7 @@ transform: scale(1.1);
 
 .top{
 overflow:hidden;
-background-color: rgb(82, 157, 255);
+background-color: rgb(3, 66, 180);
 height:75px;
 width:100%;
 }
@@ -348,7 +348,7 @@ font-size:26px;
 .bottom{
 overflow:hidden;
 margin-top:60px;
-background-color:rgb(82, 157, 255);
+background-color:rgb(3, 66, 180);
 height:30px;
 width:100%;
 }
@@ -364,7 +364,7 @@ border: 1px solid black;
 }
 
 .last{
-background-color:rgb(82, 157, 255);
+background-color:rgb(3, 66, 180);
 height:51px;
 width:100%;
 }
@@ -372,7 +372,7 @@ width:100%;
 .lastm{
 margin-left:auto;
 margin-right:auto;
-background-color:rgb(82, 157, 255);
+background-color:rgb(3, 66, 180);
 height:50px;
 width:50%;
 border-top: 1px solid white;
