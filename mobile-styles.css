@@ -95,6 +95,8 @@ white-space:nowrap;
 height:750px;
 width:100%;
 background-image:url("pic/1.jpg");
+background-size: cover;
+  background-position: center;
 }
 
 #maodian1{
@@ -200,6 +202,8 @@ overflow:hidden;
 
 .fourth{
 background-image:url("pic/4.jpg");
+background-size: cover;
+  background-position: center;
 height:650px;
 width:100%;
 }
