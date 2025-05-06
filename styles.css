@@ -15,16 +15,6 @@ body{
 background-color:rgb(245,245,245);
 }
 
-.photo2 img:hover {
-transition: transform 0.5s ease;
-transform: scale(1.1);
-}
-
-.shangban img:hover {
-transition: transform 0.5s ease;
-transform: scale(1.1);
-}
-
 .top{
 overflow:hidden;
 background-color: rgb(3, 66, 180);
@@ -94,7 +84,7 @@ height:750px;
 width:100%;
 background-image:url("pic/1.jpg");
 background-size: cover;
-  background-position: center;
+background-position: center;
 }
 
 #maodian1{
@@ -202,7 +192,7 @@ overflow:hidden;
 .fourth{
 background-image:url("pic/4.jpg");
 background-size: cover;
-  background-position: center;
+background-position: center;
 height:650px;
 width:100%;
 }
@@ -298,8 +288,8 @@ font-weight:500;
 }
 
 .shangban>.ppp{
-width:255px;
-height:200px;
+width:100%;
+height:100%;
 }
 
 .fifth{
